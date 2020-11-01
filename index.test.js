@@ -6,3 +6,4 @@ test("Simple test", () =>
 		expect(true);
 		app.close();
 	});
+// hello
